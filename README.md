@@ -4,3 +4,6 @@
 
 2:点击create_pdf files 开始抓取文章
 ![Example Image](2.png)
+
+2:点击download 打包下载当前top10的文件
+![Example Image](3.png)
