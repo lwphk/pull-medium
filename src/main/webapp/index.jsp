@@ -42,7 +42,9 @@ $(document).ready(function(){
 	 $.get('/vpnCheck',function(res){
         if(res == true){
         	$("#vpnDiv").show();
-        }
+        }else{
+		$("#pullDiv").show();
+	}
      })
      
      $("#testPing").click(function(){
